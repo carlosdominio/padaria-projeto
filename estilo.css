@@ -14,6 +14,18 @@ text-align: center;
 font-size: 16px;
 }
 
+.div-02 p{
+    text-align: justify;
+    padding: 28px; 
+    color: #010000;
+    font-size: 20px;
+}
+
+
+
+
+
+
 .fonte a {
     font-size: 18px;
     text-decoration: none;
