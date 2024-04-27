@@ -1,0 +1,93 @@
+*{
+    margin: 0 auto;
+}
+body{
+
+    background-color: #F8F8F8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*----------------cabeçalho é logo------------------------------*/
+.box-01,.div-02,.div-03,.div-04{
+margin: 50px auto;
+width: 700px;
+text-align: center;
+font-size: 16px;
+}
+
+.fonte a {
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.fonte{
+    padding-top: 20px;
+}
+
+
+/*------------------div 02----------------------------*/
+.div-02 h1{
+    padding: 18px;
+    font-weight: normal;
+
+}
+
+.div-02 h2{
+color: #d1aa87;
+padding-bottom: 50px;
+font-weight: normal;
+font-size: 26px;
+
+
+}
+
+
+/*------------------div 03----------------------------*/
+.div-03 h2, h3{
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-weight: normal;
+     font-size: 29px;
+
+     
+    
+}
+.div-03 p{
+    text-align: justify;
+    padding: 28px; 
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.div-03{
+    background-color: #DE8E37;
+}
+
+.div-03 h2{
+    padding-top: 80px;
+
+
+}
+.div-03 img{
+    border: 10px solid #fdd0a0;
+    padding: 20px;
+
+}
+.alinhamentoh3{
+    padding-top:35px; 
+}
+
+
+/*------------------div 04----------------------------*/
+
+.div-04 h3{
+    color: rgb(0, 0, 0);
+    
+}
+.div-04 p{
+text-align: center;
+padding: 6px}
+
+
+
