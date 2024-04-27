@@ -87,7 +87,11 @@ font-size: 26px;
 }
 .div-04 p{
 text-align: center;
-padding: 6px}
+padding: 4px}
 
+span{
+    font-weight: bold;
+   
+}
 
 
